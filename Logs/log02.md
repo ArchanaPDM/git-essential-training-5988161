@@ -1,0 +1,1 @@
+This log file tests the direct merge from the remote repo via GitHub.com
