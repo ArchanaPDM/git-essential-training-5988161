@@ -1,1 +1,1 @@
-This is the file in the second folder which was newly created
+This is the file in the second folder which was 
